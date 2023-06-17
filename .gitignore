@@ -40,7 +40,7 @@ coverage/
 .DS_Store
 Thumbs.db
 # production
-/build
+
 
 # misc
 .DS_Store
@@ -62,7 +62,7 @@ scripts/flow/*/.flowconfig
 .grunt
 _SpecRunner.html
 __benchmarks__
-build/
+
 remote-repo/
 coverage/
 .module-cache

@@ -1,0 +1,19 @@
+.dropdown-menu{
+    background-color:#ffffff13;
+}
+
+.dropdown-menu a:hover{
+    background-color:#ffffff13;
+}
+
+
+a:hover{
+    background-color: #ffffff23;
+}
+
+#button-responsive{
+    background: none;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}

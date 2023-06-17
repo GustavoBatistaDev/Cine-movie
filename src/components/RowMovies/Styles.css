@@ -1,0 +1,6 @@
+.row-movies{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(272.5px, 1fr));
+    row-gap: 50px;
+   
+}

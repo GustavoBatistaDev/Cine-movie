@@ -15,7 +15,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Build
-build/
+
 dist/
 out/
 
